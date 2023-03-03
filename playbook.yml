@@ -1,0 +1,4 @@
+-name: basic play
+hosts: all
+tasks:
+     - ansible.builtin.ping:
